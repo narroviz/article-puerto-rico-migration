@@ -1,6 +1,6 @@
 export const ARTICLE_NAME = "puerto-rico-migration"
 export const ARTICLE_NAME_UNDERSCORE = "puerto_rico_migration"
 export const ARTICLE_TITLE = "Puerto Rican Migration"
-export const ARTICLE_DESCRIPTION = "Article Description"
+export const ARTICLE_DESCRIPTION = "A breakdown of Puerto Ricans in the diaspora who were returning to the island"
 export const ARTICLE_PUBLISH_TIME = "2021/09/17"
 export const ARTICLE_TITLE_DATE = "September 2021"

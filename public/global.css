@@ -121,11 +121,13 @@ main {
 	padding-top: 4rem;
 	padding-left: 5vw;
 	padding-right: 5vw;
+    padding-bottom: 4rem;
 }
 
 @media (max-width: 1000px) {
-  main {
-    padding: 0vw;
-    padding-top: 4rem;
-  }
+    main {
+        padding: 0vw;
+        padding-top: 4rem;
+        padding-bottom: 0.5rem;
+    }
 }

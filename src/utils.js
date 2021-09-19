@@ -71,7 +71,7 @@ export function dynamicSort(property) {
 }
 
 // https://stackoverflow.com/questions/2685911/is-there-a-way-to-round-numbers-into-a-reader-friendly-format-e-g-1-1k
-export function abbrNum(number, decPlaces) {
+export function abbrNum(number, decPlaces=0) {
     // 2 decimal places => 100, 3 => 1000, etc
     decPlaces = Math.pow(10,decPlaces);
 
